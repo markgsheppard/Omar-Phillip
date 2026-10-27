@@ -4,6 +4,10 @@ An interactive explorer of NFL home-field advantage covering every game from 192
 
 **Short answer:** yes, but less than it used to. Home teams have won 57.6% of 18,208 non-neutral games and outscore visitors by about 2.6 points after adjusting for team strength. The edge sat near 2.8 points from 1970 to 2009, has averaged about 2.0 since 2021, and nearly disappeared (+0.1) in 2020 when most stadiums were empty.
 
+Live site: https://markgsheppard.github.io/Omar-Phillip/
+
+By Super Bowl era (adjusted points): pre-Super Bowl 1920–1965 +2.8; AFL–NFL & 14 games 1966–1977 +2.6; 16 games pre-cap 1978–1993 +3.0; salary-cap era 1994–2019 +2.5; 2020 empty stadiums +0.1; 17-game era 2021–2026 +2.0.
+
 ## Publish on GitHub Pages
 
 1. Create a repository and upload everything in this folder (keep `index.html` at the root).
